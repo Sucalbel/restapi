@@ -1,0 +1,39 @@
+{
+	"posts" : [
+			{
+				"id" : 1,
+				"titlr" : "cách nấu phở bò",
+				"body" : "hướng dẫn chi tiết"'
+			},
+			{
+				"id" : 2,
+				"titlr" : "cách nấu kẹo",
+				"body" : "hướng dẫn không chi tiết"'
+			},
+			{		
+				"id" : 3,
+				"titlr" : "cách nấu chè",
+				"body" : "hướng dẫn hơi chi tiết"'
+			},
+			{
+				"id" : 4,
+				"titlr" : "cách nấu bạn",
+				"body" : "hướng dẫn không cần chi tiết"'
+			},
+		],
+	"users":[
+			{
+				"username" : "tung"
+				"password" : "hellofen"
+				"fullname" : "Trương Đình Tùng"
+			},
+			{
+				"username" : "hoàng"
+				"password" : "hellofen"
+				"fullname" : "Nguyễn Lê Huy Hoàng"
+			},
+	]'
+
+}
+
+
