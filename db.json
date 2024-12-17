@@ -19,9 +19,11 @@
 				"id" : 4,
 				"titlr" : "cách nấu bạn",
 				"body" : "hướng dẫn không cần chi tiết"
-			},
+			}
 		],
-	"users":[
+	
+	"users": [
+		
 			{
 				"username" : "tung"
 				"password" : "hellofen"
@@ -31,7 +33,7 @@
 				"username" : "hoàng"
 				"password" : "hellofen"
 				"fullname" : "Nguyễn Lê Huy Hoàng"
-			},
+			}
 		]
 
 }
